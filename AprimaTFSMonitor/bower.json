@@ -1,0 +1,21 @@
+{
+  "name": "aprimatfsmonitor",
+  "description": "node packages for tfsmonitor",
+  "main": "index.js",
+  "authors": [
+    "Donald Havien <dhavien@aprima.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/dhavien/AprimaTFSMonitor",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.9"
+  }
+}

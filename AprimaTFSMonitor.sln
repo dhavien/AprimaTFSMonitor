@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AprimaTFSMonitor", "AprimaTFSMonitor\AprimaTFSMonitor.csproj", "{CFC3039D-BCBB-4C77-A00F-072FF40575F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AprimaTFSMonitor.Logic", "AprimaTFSMonitor.Logic\AprimaTFSMonitor.Logic.csproj", "{38E20977-80BE-43C5-B3DF-A14C46312076}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFC3039D-BCBB-4C77-A00F-072FF40575F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC3039D-BCBB-4C77-A00F-072FF40575F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC3039D-BCBB-4C77-A00F-072FF40575F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC3039D-BCBB-4C77-A00F-072FF40575F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38E20977-80BE-43C5-B3DF-A14C46312076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38E20977-80BE-43C5-B3DF-A14C46312076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38E20977-80BE-43C5-B3DF-A14C46312076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38E20977-80BE-43C5-B3DF-A14C46312076}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA32CA2B-7E34-405D-9267-0F2AB28C57DB}
+	EndGlobalSection
+EndGlobal
